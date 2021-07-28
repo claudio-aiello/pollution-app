@@ -1,0 +1,19 @@
+{
+  "name": "Air-pollution-app",
+  "version": "1.0.0",
+  "description": "Progetto Start2Impact Javascript Advanced",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "Claudio Aiello",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.37.1",
+    "webpack-cli": "^4.7.0"
+  },
+  "dependencies": {
+    "dotenv-webpack": "^7.0.2",
+    "lodash": "^4.17.21"
+  }
+}
